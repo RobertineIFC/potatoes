@@ -116,6 +116,12 @@ body {
     overflow: hidden;
   }
 
+.dropdown_2 {
+    float: left;
+    margin-left: 20%;
+    overflow: hidden;
+  }
+
   
   .dropdown .dropbtn {
     font-size: 16px;  
