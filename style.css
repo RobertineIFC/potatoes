@@ -15,6 +15,30 @@
     font-size: 40px;
     color: #434343;
 }
+.search-box {
+        padding-top: 5%;
+        display:flex;
+        justify-content: center;
+    }
+
+
+
+    .search-box input[type="text"]{
+        border: none;
+        outline: none;
+        letter-spacing: 5px;
+        height: 40px;
+        width: 350px;
+        font-size: 20px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        background-color: rgb(255, 255, 255);
+        display:flex;
+        justify-content: center;
+        text-align:center;
+    }
 
 .title3 {
     display: flex;
