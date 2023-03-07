@@ -118,7 +118,8 @@ body {
 
 .dropdown_2 {
     float: left;
-    margin-left: 20%;
+    margin-top: -20px;
+    margin-left: 400px;
     overflow: hidden;
   }
 
