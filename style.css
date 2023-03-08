@@ -13,7 +13,7 @@
     display: list-item;    
 }
 
-ol li{
+ol{
       list-style-type: none;
 }
 .iwantamargin {
