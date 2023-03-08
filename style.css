@@ -11,14 +11,10 @@
 .units {
     margin-left: 15%;
     display: list-item;
-    background-color: #354d8a;
-    color: #354d8a;
 }
 
 ol li{
   list-style-type:none
-  background-color: #354d8a;
-  color: #354d8a;
 }
 
 .iwantamargin {
