@@ -1,4 +1,3 @@
-
 function search_topic() {
     let input = document.getElementById('searchbar').value
     input=input.toLowerCase();
