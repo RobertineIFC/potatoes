@@ -13,6 +13,9 @@
     display: list-item;    
 }
 
+ol li{
+      list-style-type: none;
+}
 .iwantamargin {
     margin-left: 50%;
 }
