@@ -13,6 +13,10 @@
     display: list-item;    
 }
 
+ol li{
+  list-style: none;
+}
+
 .iwantamargin {
     margin-left: 50%;
     list-style-type: none;
