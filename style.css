@@ -13,9 +13,14 @@
     display: list-item;    
 }
 
+.iwantamargin {
+    margin-left: 50%;
+}
+
 #list {
    margin-left: 15%; 
 }
+
 .title2 {
     display: flex;
     justify-content: center;
