@@ -10,7 +10,9 @@
 
 .units {
     margin-left: 15%;
-    display: list-item;    
+    display: list-item;
+    background-color: #354d8a;
+    color: #354d8a;
 }
 
 ol li{
@@ -63,6 +65,8 @@ ol li{
  
 .animals{
    display: list-item;    
+       background-color: black;
+       color: black;
   } 
 .title3 {
     display: flex;
