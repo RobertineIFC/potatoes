@@ -10,7 +10,9 @@
 
 .units {
     margin-left: 15%;
+    display: list-item;    
 }
+
 .title2 {
     display: flex;
     justify-content: center;
